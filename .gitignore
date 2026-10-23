@@ -1,0 +1,11 @@
+# Never commit personal resumes or postings.
+master.md
+tailored-*.md
+jd.md
+jd-keywords.json
+
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.DS_Store

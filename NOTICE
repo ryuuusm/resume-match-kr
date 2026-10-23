@@ -1,0 +1,24 @@
+resume-match-kr
+Copyright 2026 ryuuusm
+
+This product includes software derived from Resume-Matcher
+(https://github.com/srbhr/Resume-Matcher), licensed under the Apache License,
+Version 2.0. Resume-Matcher did not ship a NOTICE file at the time of derivation
+(2026-10-23, upstream main).
+
+Derived files and what was taken:
+- skills/resume-match-kr/scripts/_textmatch.py
+    keyword matching with CJK-aware word boundaries
+    (from apps/backend/app/services/text_match.py)
+- skills/resume-match-kr/scripts/match.py
+    score weights, title/section/date sub-scores, keyword-gap analysis against a
+    master resume, and recommendation structure
+    (from apps/backend/app/services/ats.py and refiner.py)
+- skills/resume-match-kr/references/01-tailoring-rules.md
+    truthfulness rules and the four tailoring intensities, translated into Korean
+    (from apps/backend/app/prompts/templates.py)
+- skills/resume-match-kr/references/03-keyword-extraction.md
+    keyword JSON shape (from the EXTRACT_KEYWORDS_PROMPT in the same file)
+
+Each derived source file lists its modifications in its header.
+Not affiliated with or endorsed by the Resume-Matcher project.
