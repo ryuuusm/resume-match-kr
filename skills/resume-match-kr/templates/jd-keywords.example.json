@@ -1,0 +1,8 @@
+{
+  "_comment": "Fictional example. Copy every term VERBATIM from the posting: required_skills from 자격요건/필수/Requirements, preferred_skills from 우대사항/Preferred, keywords for other repeated domain terms. role_aliases only if the posting itself writes the title another way.",
+  "role": "IT Project Manager",
+  "role_aliases": ["IT 프로젝트 매니저", "IT PM"],
+  "required_skills": ["SAP", "ERP", "Project Management", "Stakeholder Management", "영어"],
+  "preferred_skills": ["Computer System Validation", "ITGC", "Power Automate", "Python"],
+  "keywords": ["GxP", "APAC", "요구사항 분석", "벤더 관리"]
+}
