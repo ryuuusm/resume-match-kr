@@ -1,0 +1,219 @@
+{
+  "_comment": "KO<->EN equivalent spellings used by match.py. Each group is a list of spellings that mean the SAME thing. Add your own groups; do not add loosely related terms (e.g. 'SOX' and '내부회계관리제도' are related but not identical, so they are not grouped). Korean spellings match as substrings, so avoid short Hangul words that appear inside common words (e.g. '뷰' in '인터뷰'); match.py also rejects a hit that sits inside a longer known spelling (e.g. '자바' inside '자바스크립트').",
+  "groups": [
+    [
+      "Python",
+      "파이썬"
+    ],
+    [
+      "Java",
+      "자바"
+    ],
+    [
+      "JavaScript",
+      "자바스크립트"
+    ],
+    [
+      "TypeScript",
+      "타입스크립트"
+    ],
+    [
+      "Kotlin",
+      "코틀린"
+    ],
+    [
+      "Go",
+      "Golang",
+      "고랭"
+    ],
+    [
+      "C#",
+      "C샵"
+    ],
+    [
+      "React",
+      "리액트"
+    ],
+    [
+      "Vue.js",
+      "Vue"
+    ],
+    [
+      "Spring",
+      "스프링"
+    ],
+    [
+      "Spring Boot",
+      "스프링부트",
+      "스프링 부트"
+    ],
+    [
+      "Kubernetes",
+      "쿠버네티스",
+      "k8s"
+    ],
+    [
+      "Docker",
+      "도커"
+    ],
+    [
+      "Terraform",
+      "테라폼"
+    ],
+    [
+      "AWS",
+      "Amazon Web Services",
+      "아마존 웹 서비스"
+    ],
+    [
+      "Azure",
+      "애저"
+    ],
+    [
+      "GCP",
+      "Google Cloud",
+      "구글 클라우드"
+    ],
+    [
+      "Oracle",
+      "오라클"
+    ],
+    [
+      "PostgreSQL",
+      "Postgres",
+      "포스트그레스"
+    ],
+    [
+      "Linux",
+      "리눅스"
+    ],
+    [
+      "Machine Learning",
+      "머신러닝",
+      "기계학습"
+    ],
+    [
+      "Deep Learning",
+      "딥러닝"
+    ],
+    [
+      "Artificial Intelligence",
+      "인공지능"
+    ],
+    [
+      "Large Language Model",
+      "LLM",
+      "대규모 언어 모델",
+      "거대언어모델"
+    ],
+    [
+      "Data Analysis",
+      "데이터 분석"
+    ],
+    [
+      "Data Engineering",
+      "데이터 엔지니어링"
+    ],
+    [
+      "Cloud",
+      "클라우드"
+    ],
+    [
+      "DevOps",
+      "데브옵스"
+    ],
+    [
+      "Microservices",
+      "MSA",
+      "마이크로서비스"
+    ],
+    [
+      "Agile",
+      "애자일"
+    ],
+    [
+      "Scrum",
+      "스크럼"
+    ],
+    [
+      "Project Management",
+      "프로젝트 관리"
+    ],
+    [
+      "Project Manager",
+      "프로젝트 매니저"
+    ],
+    [
+      "Product Manager",
+      "프로덕트 매니저"
+    ],
+    [
+      "Business Analyst",
+      "비즈니스 애널리스트"
+    ],
+    [
+      "Requirements Analysis",
+      "요구사항 분석"
+    ],
+    [
+      "Stakeholder Management",
+      "이해관계자 관리"
+    ],
+    [
+      "Information Security",
+      "정보보안",
+      "정보 보안"
+    ],
+    [
+      "Penetration Testing",
+      "모의해킹",
+      "모의 해킹"
+    ],
+    [
+      "ISMS-P",
+      "정보보호 및 개인정보보호 관리체계"
+    ],
+    [
+      "Computer System Validation",
+      "컴퓨터 시스템 밸리데이션"
+    ],
+    [
+      "ITGC",
+      "IT General Controls",
+      "IT 일반통제"
+    ],
+    [
+      "ERP",
+      "전사적 자원관리"
+    ],
+    [
+      "Power BI",
+      "파워BI",
+      "파워 BI"
+    ],
+    [
+      "Power Automate",
+      "파워 오토메이트"
+    ],
+    [
+      "Excel",
+      "엑셀"
+    ],
+    [
+      "Engineer Information Processing",
+      "정보처리기사"
+    ],
+    [
+      "English",
+      "영어"
+    ],
+    [
+      "Japanese",
+      "일본어"
+    ],
+    [
+      "Chinese",
+      "중국어"
+    ]
+  ]
+}
